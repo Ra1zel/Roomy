@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "fast-json-stable-stringify": "^2.1.0",
+    "graphql": "^15.6.1"
+  }
 }
